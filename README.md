@@ -1,15 +1,15 @@
 
-<div align="center">
+<p align="center">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=38C2FF&center=true&vCenter=true&random=false&width=435&lines=Welcome+to+the+foxhole+%F0%9F%A6%8A" alt="Typing SVG" />
-</div>
+</p>
 
-<div align="center">
+<p align="center">
     <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdmdzam1ic3Vlc25yNWxiaGF3NWp5dzZ4czh2M2Z2OW90bGFmajRhaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xUA7b3uKYWwP4SW8Fy/giphy.gif" width="600" height="300"/>
-</div>
+</p>
 
-<div align="center">
+<p align="center">
     <img src="https://visitcount.itsvg.in/api?id=Techno-Fox&label=Profile%20Views&color=0&icon=0&pretty=true" />
-</div>
+</p>
 
 ---
 
