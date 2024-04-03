@@ -19,7 +19,6 @@ Here are some ideas to get you started:
     [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=38C2FF&center=true&vCenter=true&random=false&width=435&lines=Welcome+to+the+foxhole)](https://git.io/typing-svg)
     [![](https://visitcount.itsvg.in/api?id=Techno-Fox&icon=0&color=0)](https://visitcount.itsvg.in)
 
-    <!-- <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGY1cGVtZDNycXo4aDVjeDFsb3g1bWdxeHFic240dGkwN21rNDN6cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/XbXcsn1lqIGR0rmQzU/giphy.gif" width="100"/> -->
     <img src="https://komarev.com/ghpvc/?username=Techno-Fox&style=flat-square&color=blue" alt=""/>
 
     <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdmdzam1ic3Vlc25yNWxiaGF3NWp5dzZ4czh2M2Z2OW90bGFmajRhaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xUA7b3uKYWwP4SW8Fy/giphy.gif" width="600" height="300"/>
