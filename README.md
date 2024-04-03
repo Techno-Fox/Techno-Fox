@@ -1,16 +1,9 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGY1cGVtZDNycXo4aDVjeDFsb3g1bWdxeHFic240dGkwN21rNDN6cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/XbXcsn1lqIGR0rmQzU/giphy.gif" width="100"/>
-</div>
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=38C2FF&center=true&vCenter=true&random=false&width=435&lines=Welcome+to+the+foxhole" alt="Typing SVG" /></a>
 
-
-<div>
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=38C2FF&center=true&vCenter=true&random=false&width=435&lines=Welcome+to+the+foxhole)](https://git.io/typing-svg)
-</div>
-
-<img src="https://komarev.com/ghpvc/?username=Techno-Fox&style=flat-square&color=blue" alt=""/>
-
-<div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdmdzam1ic3Vlc25yNWxiaGF3NWp5dzZ4czh2M2Z2OW90bGFmajRhaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xUA7b3uKYWwP4SW8Fy/giphy.gif" width="600" height="300"/>
+    <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGY1cGVtZDNycXo4aDVjeDFsb3g1bWdxeHFic240dGkwN21rNDN6cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/XbXcsn1lqIGR0rmQzU/giphy.gif" width="100"/>
+    <img src="https://komarev.com/ghpvc/?username=Techno-Fox&style=flat-square&color=blue" alt=""/>
+    <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdmdzam1ic3Vlc25yNWxiaGF3NWp5dzZ4czh2M2Z2OW90bGFmajRhaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xUA7b3uKYWwP4SW8Fy/giphy.gif" width="600" height="300"/>
 </div>
 
 ---
