@@ -7,6 +7,7 @@
     <img src="https://komarev.com/ghpvc/?username=Techno-Fox&style=flat-square&color=blue" alt=""/>
 
     <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdmdzam1ic3Vlc25yNWxiaGF3NWp5dzZ4czh2M2Z2OW90bGFmajRhaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xUA7b3uKYWwP4SW8Fy/giphy.gif" width="600" height="300"/>
+
 </div>
 
 ---
