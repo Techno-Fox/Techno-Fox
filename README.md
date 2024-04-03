@@ -5,6 +5,9 @@
 
 <p align="center">
     <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdmdzam1ic3Vlc25yNWxiaGF3NWp5dzZ4czh2M2Z2OW90bGFmajRhaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xUA7b3uKYWwP4SW8Fy/giphy.gif" width="600" height="300"/>
+
+[![](https://visitcount.itsvg.in/api?id=Techno-Fox&icon=0&color=0)](https://visitcount.itsvg.in)
+
 </p>
 
 
@@ -31,6 +34,4 @@ I am a computer science nerd <img src="https://media.giphy.com/media/v1.Y2lkPTc5
 ![](https://github-contributor-stats.vercel.app/api?username=Techno-Fox&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Techno-Fox&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<
