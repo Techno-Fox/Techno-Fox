@@ -16,7 +16,9 @@ Here are some ideas to get you started:
 -->
 
 <div id="header" align="center">
+
     [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=38C2FF&center=true&vCenter=true&random=false&width=435&lines=Welcome+to+the+foxhole)](https://git.io/typing-svg)
+    
     [![](https://visitcount.itsvg.in/api?id=Techno-Fox&icon=0&color=0)](https://visitcount.itsvg.in)
 
     <img src="https://komarev.com/ghpvc/?username=Techno-Fox&style=flat-square&color=blue" alt=""/>
